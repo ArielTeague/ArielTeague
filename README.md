@@ -1,4 +1,6 @@
-### Hi there 👋
+
+<h1 align="center">Greetings, I'm Ariel</h1> <br>
+<div align="center">:email:ArielTeague@gmail.com</div>
 
 <!--
 **ArielTeague/ArielTeague** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
